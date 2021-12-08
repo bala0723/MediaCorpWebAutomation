@@ -2,10 +2,10 @@
 <testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="stepDefinitions.LoginFunctionalityTest" duration-ms="11" started-at="2021-11-22T16:48:48 IST" finished-at="2021-11-22T16:48:48 IST">
+  <suite name="Surefire suite" duration-ms="11" started-at="2021-11-23T19:18:38 IST" finished-at="2021-11-23T19:18:38 IST">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="11" started-at="2021-11-22T16:48:48 IST" finished-at="2021-11-22T16:48:48 IST">
-    </test> <!-- Command line test -->
-  </suite> <!-- stepDefinitions.LoginFunctionalityTest -->
+    <test name="Surefire test" duration-ms="11" started-at="2021-11-23T19:18:38 IST" finished-at="2021-11-23T19:18:38 IST">
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
 </testng-results>
